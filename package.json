@@ -1,0 +1,19 @@
+{
+  "name": "@maprva/landmarks",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "build.js",
+  "scripts": {
+    "start": "http-server -c-1",
+    "build:geojson": "node build.js"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "description": "",
+  "dependencies": {
+    "osmtogeojson": "^3.0.0-beta.5"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

@@ -1,2 +1,2 @@
-# landmark-icons
-Vector icons for landmarks around the world
+# Open Landmarks
+A cartographic experiment using landmarks to help users orient themselves.
