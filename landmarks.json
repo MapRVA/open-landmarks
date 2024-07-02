@@ -1,0 +1,48 @@
+[
+    {
+        "wikidata": "Q11343430",
+        "extra_qualifier": "[building=train_station]",
+        "note": "Main St Station",
+        "maki_temaki": "maki/rail"
+    },
+    {
+        "wikidata": "Q4013975",
+        "note": "VMFA",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q7433575",
+        "note": "Science Museum",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q1700358",
+        "note": "Richmond Raceway",
+        "maki_temaki": "temaki/racetrack_oval"
+    },
+    {
+        "wikidata": "Q4883643",
+        "note": "Belle Isle",
+        "maki_temaki": "maki/park"
+    },
+    {
+        "wikidata": "Q5123443",
+        "note": "City Stadium",
+        "maki_temaki": "maki/stadium"
+    },
+    {
+        "wikidata": "Q7730070",
+        "note": "The Diamond",
+        "maki_temaki": "maki/stadium"
+    },
+    {
+        "wikidata": "Q2537798",
+        "note": "Virginia State Capital",
+        "maki_temaki": "temaki/capitol"
+    },
+    {
+        "wikidata": "Q5052468",
+        "note": "Cathedral of the Sacred Heart",
+        "maki_temaki": "maki/place-of-worship"
+    }
+]
