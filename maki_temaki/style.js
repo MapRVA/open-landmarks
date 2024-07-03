@@ -2,7 +2,7 @@ export const layer = (sourceName) => ({
   id: "OpenLandmarksMakiTemaki",
   source: sourceName,
   type: "symbol",
-  minzoom: 11,
+  minzoom: 12,
   layout: {
     "icon-image": ["get", "maki_temaki"],
     "text-field": "{name}",
