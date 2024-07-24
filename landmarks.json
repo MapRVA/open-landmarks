@@ -1,5 +1,45 @@
 [
     {
+        "wikidata": "Q54109",
+        "note": "U.S. Capitol",
+        "maki_temaki": "temaki/capitol"
+    },
+    {
+        "wikidata": "Q178114",
+        "note": "Washington Monument",
+        "maki_temaki": "temaki/obelisk"
+    },
+    {
+        "wikidata": "Q216344",
+        "note": "Arlington National Cemetary",
+        "make_temaki": "maki/cemetary"
+    },
+    {
+        "wikidata": "Q3570",
+        "note": "Union Station",
+        "maki_temaki": "maki/rail"
+    },
+    {
+        "wikidata": "Q668710",
+        "note": "National Cathedral",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q676576",
+        "note": "National Airport",
+        "maki_temaki": "maki/airport"
+    },
+    {
+        "wikidata": "Q5336827",
+        "note": "Eden Center",
+        "maki_temaki": "maki/shop"
+    },
+    {
+        "wikidata": "Q18159001",
+        "note": "Union Market",
+        "maki_temaki": "maki/restaurant"
+    },
+    {
         "wikidata": "Q11343430",
         "extra_qualifier": "[building=train_station]",
         "note": "Main St Station",
