@@ -18,7 +18,51 @@
     </style>
   </head>
   <body>
-    <script type="module" src="index.js"></script>
+    <script defer src="https://overpass-ultra.us/embed.js" style="display:block;height:100%;width:100%;border:none;">
+---
+type: geojson
+options:
+  zoom: 12
+  center: [-77.45262, 37.55813]
+style:
+  extends: https://styles.trailsta.sh/osm-bright.json
+  layers:
+    - type: symbol
+      minzoom: 12
+      icon-image:
+        - concat
+        - /icons/
+        - [get, maki_temaki]
+        - .png
+      icon-color: rgb(51, 51, 51)
+      text-color: rgb(51, 51, 51)
+      icon-halo-color: white
+      text-halo-color: white
+      icon-halo-width: 2
+      text-halo-width: 2
+      text-field: '{name}'
+      text-anchor: top
+      text-radial-offset: 1.25
+      text-size: 14
+popupTemplate: >
+  <img src="https://hub.toolforge.org/{{ tags.wikidata }}?p=image&w=200&h=150">
+  <hr>
+  {%- for tag in tags %}
+    {%- if tag[0] contains "website" %}
+      <code>{{ tag[0] }} = <a href="{{ tag[1] }}" target="_blank">{{ tag[1] }}</a></code>
+    {%- elsif tag[0] contains "wikidata" %}
+      <code>{{ tag[0] }} = <a href="https://wikidata.org/wiki/{{ tag[1] }}" target="_blank">{{ tag[1] }}</a></code>
+    {%- elsif tag[0] contains "wikipedia" %}
+      {% assign lang = tag[1] | split: ":" | first %}
+      <code>{{ tag[0] }} = <a href="https://{{ lang }}.wikipedia.org/wiki/{{ tag[1] | replace_first: lang, "" | replace_first: ":", "" }}" target="_blank">{{ tag[1] }}</a></code>
+    {%- else %}
+      <code>{{ tag[0] }} = {{ tag[1] }}</code>
+    {%- endif %}
+    <br>
+  {%- endfor %}
+---
+https://maprva.github.io/open-landmarks/landmarks.geojson
+    </script>
   </body>
 </html>
 
