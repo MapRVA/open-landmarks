@@ -13,8 +13,7 @@ fs.writeFileSync(
         const {
           features: [feature],
         } = osmtogeojson(await resp.json());
-        feature.properties.maki_temaki = inp.maki_temaki;
-        return feature;
+        return { ...feature, properties: { ...feature.properties, ...inp } };
       }),
     ),
   }),
