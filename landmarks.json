@@ -1,5 +1,40 @@
 [
     {
+        "wikidata": "Q54109",
+        "note": "U.S. Capitol",
+        "maki_temaki": "temaki/capitol"
+    },
+    {
+        "wikidata": "Q178114",
+        "note": "Washington Monument",
+        "maki_temaki": "temaki/obelisk"
+    },
+    {
+        "wikidata": "Q35525",
+        "note": "White House",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q213559",
+        "note": "Lincoln Memorial",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q326183",
+        "note": "Jefferson Memorial",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q3570",
+        "note": "Union Station",
+        "maki_temaki": "maki/rail"
+    },
+    {
+        "wikidata": "Q668710",
+        "note": "National Cathedral",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
         "wikidata": "Q11343430",
         "extra_qualifier": "[building=train_station]",
         "note": "Main St Station",
@@ -19,6 +54,11 @@
         "wikidata": "Q1700358",
         "note": "Richmond Raceway",
         "maki_temaki": "temaki/racetrack_oval"
+    },
+    {
+        "wikidata": "Q5336827",
+        "note": "Eden Center, a well-known Vietnamese shopping center with an iconic arch over its entrance.",
+        "maki_temaki": "maki/shop"
     },
     {
         "wikidata": "Q4883643",
@@ -48,6 +88,11 @@
     {
         "wikidata": "Q127740146",
         "note": "Virginia War Memorial Carillon",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q2901761",
+        "note": "Netherlands Carillon",
         "maki_temaki": "maki/monument"
     }
 ]
