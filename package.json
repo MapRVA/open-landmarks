@@ -4,7 +4,7 @@
   "type": "module",
   "main": "build.js",
   "scripts": {
-    "start": "http-server -c-1",
+    "start": "http-server -c-1 --cors",
     "build:geojson": "node build.js"
   },
   "author": "",

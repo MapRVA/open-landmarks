@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -9,7 +9,10 @@
     <style>
       html,
       body,
-      #map {
+      #map,
+      iframe {
+        display: flex;
+        border: none;
         height: 100%;
         width: 100%;
         margin: 0;
@@ -18,7 +21,15 @@
     </style>
   </head>
   <body>
-    <script defer src="https://overpass-ultra.us/embed.js" style="display:block;height:100%;width:100%;border:none;">
+    <iframe></iframe>
+    <script>
+      let geojson = "https://maprva.github.io/open-landmarks/landmarks.geojson";
+      if (window.location.host.startsWith("localhost:")) {
+        geojson = `${window.location.origin}/landmarks.geojson`;
+      } else {
+        geojson = `${window.location.origin}/open-landmarks/landmarks.geojson`;
+      }
+      const query = `
 ---
 type: geojson
 options:
@@ -28,7 +39,6 @@ style:
   extends: https://styles.trailsta.sh/osm-bright.json
   layers:
     - type: symbol
-      minzoom: 12
       icon-image:
         - concat
         - /icons/
@@ -61,8 +71,10 @@ popupTemplate: >
     <br>
   {%- endfor %}
 ---
-https://maprva.github.io/open-landmarks/landmarks.geojson
+${geojson}
+`;
+      document.querySelector("iframe").src =
+        `https://overpass-ultra.us/#map&query=${encodeURIComponent(query.trim())}`;
     </script>
   </body>
 </html>
-
