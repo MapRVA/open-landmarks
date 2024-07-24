@@ -44,5 +44,10 @@
         "wikidata": "Q5052468",
         "note": "Cathedral of the Sacred Heart",
         "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q127740146",
+        "note": "Virginia War Memorial Carillon",
+        "maki_temaki": "maki/monument"
     }
 ]
