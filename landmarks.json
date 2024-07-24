@@ -1,8 +1,19 @@
 [
     {
+        "wikidata": "Q9202",
+        "note": "Statue of Liberty",
+        "maki_temaki": "maki/monument"
+    },
+    {
         "wikidata": "Q54109",
         "note": "U.S. Capitol",
         "maki_temaki": "temaki/capitol"
+    },
+    {
+        "wikidata": "Q1373778",
+        "note": "Refers to Horseshoe Falls, the largest and most famous waterfall at Niagara Falls",
+        "name": "Niagara Falls",
+        "maki_temaki": "maki/waterfall"
     },
     {
         "wikidata": "Q178114",
@@ -23,6 +34,32 @@
         "wikidata": "Q326183",
         "note": "Jefferson Memorial",
         "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q83497",
+        "note": "Mount Rushmore",
+        "name": "Mount Rushmore",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q5317",
+        "note": "Space Needle",
+        "maki_temaki": "temaki/mast"
+    },
+    {
+        "wikidata": "Q44440",
+        "note": "Golden Gate Bridge",
+        "maki_temaki": "maki/bridge"
+    },
+    {
+        "wikidata": "Q45234",
+        "note": "Gateway Arch",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q7962595",
+        "note": "Wall Drug",
+        "maki_temaki": "maki/attraction"
     },
     {
         "wikidata": "Q3570",
