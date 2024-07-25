@@ -54,7 +54,13 @@
     {
         "wikidata": "Q45234",
         "note": "Gateway Arch",
+        "name": "Gateway Arch",
         "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q9188",
+        "note": "Empire State Building",
+        "maki_temaki": "maki/city"
     },
     {
         "wikidata": "Q7962595",
