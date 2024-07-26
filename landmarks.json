@@ -75,6 +75,11 @@
         "maki_temaki": "maki/monument"
     },
     {
+        "wikidata": "Q9141",
+        "note": "Taj Mahal",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
         "wikidata": "Q151356",
         "note": "Fernsehturm Berlin",
         "maki_temaki": "temaki/tower"
@@ -106,19 +111,9 @@
         "maki_temaki": "maki/waterfall"
     },
     {
-        "wikidata": "Q35525",
-        "note": "White House",
-        "maki_temaki": "maki/museum"
-    },
-    {
-        "wikidata": "Q213559",
-        "note": "Lincoln Memorial",
-        "maki_temaki": "maki/museum"
-    },
-    {
-        "wikidata": "Q326183",
-        "note": "Jefferson Memorial",
-        "maki_temaki": "maki/museum"
+        "wikidata": "Q204871",
+        "note": "Charles Bridge",
+        "maki_temaki": "maki/bridge"
     },
     {
         "wikidata": "Q83497",
@@ -143,9 +138,45 @@
         "maki_temaki": "maki/monument"
     },
     {
+        "wikidata": "Q29870701",
+        "note": "Cape Spear Lighthouse, prominent lighthouse at most easterly point of the continent.",
+        "name": "Cape Spear Lighthouse",
+        "maki_temaki": "maki/lighthouse"
+    },
+    {
         "wikidata": "Q9188",
         "note": "Empire State Building",
         "maki_temaki": "maki/city"
+    },
+    {
+        "wikidata": "Q45178",
+        "note": "Sydney Opera House",
+        "maki_temaki": "maki/theatre"
+    },
+    {
+        "wikidata": "Q39054",
+        "note": "Leaning Tower of Pisa",
+        "maki_temaki": "temaki/silo"
+    },
+    {
+        "wikidata": "Q35525",
+        "note": "White House",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q213559",
+        "note": "Lincoln Memorial",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q326183",
+        "note": "Jefferson Memorial",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q180376",
+        "note": "Hollywood Sign",
+        "maki_temaki": "maki/attraction"
     },
     {
         "wikidata": "Q7962595",
@@ -161,6 +192,11 @@
         "wikidata": "Q668710",
         "note": "National Cathedral",
         "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q218501",
+        "note": "Cabot Tower",
+        "maki_temaki": "maki/castle"
     },
     {
         "wikidata": "Q11343430",
