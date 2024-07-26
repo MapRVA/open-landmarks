@@ -60,11 +60,6 @@
         "maki_temaki": "maki/mountain"
     },
     {
-        "wikidata": "Q11245",
-        "note": "One World Trade Center",
-        "maki_temaki": "temaki/obelisk"
-    },
-    {
         "wikidata": "Q4255374",
         "note": "Lakhta Centre",
         "maki_temaki": "temaki/obelisk"
@@ -98,6 +93,11 @@
         "wikidata": "Q9202",
         "note": "Statue of Liberty",
         "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q11245",
+        "note": "One World Trade Center",
+        "maki_temaki": "temaki/obelisk"
     },
     {
         "wikidata": "Q194057",
@@ -160,6 +160,11 @@
         "maki_temaki": "temaki/tower"
     },
     {
+        "wikidata": "Q212065",
+        "note": "Edinburgh Castle",
+        "maki_temaki": "maki/castle"
+    },
+    {
         "wikidata": "Q47476",
         "note": "Alhambra",
         "maki_temaki": "maki/castle"
@@ -208,11 +213,6 @@
         "wikidata": "Q48435",
         "note": "Sagrada Família",
         "maki_temaki": "maki/place-of-worship"
-    },
-    {
-        "wikidata": "Q212065",
-        "note": "Edinburgh Castle",
-        "maki_temaki": "maki/castle"
     },
     {
         "wikidata": "Q178114",
