@@ -132,9 +132,29 @@
         "maki_temaki": "maki/bridge"
     },
     {
+        "wikidata": "Q614684",
+        "note": "Cairo Tower",
+        "maki_temaki": "temaki/silo"
+    },
+    {
         "wikidata": "Q45234",
         "note": "Gateway Arch",
         "name": "Gateway Arch",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q142917",
+        "note": "Mother Ukraine, a massive statue in Kyiv",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q1601986",
+        "note": "The Motherland Calls, a massive statue in Volgograd, Russia",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q60853885",
+        "note": "Statue of Guan Yu (Jingzhou)",
         "maki_temaki": "maki/monument"
     },
     {
@@ -179,6 +199,16 @@
         "maki_temaki": "maki/attraction"
     },
     {
+        "wikidata": "Q470763",
+        "note": "African Renaissance Monument",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q60854014",
+        "note": "Guerrero Chimalli",
+        "maki_temaki": "maki/monument"
+    },
+    {
         "wikidata": "Q7962595",
         "note": "Wall Drug",
         "maki_temaki": "maki/attraction"
@@ -192,6 +222,11 @@
         "wikidata": "Q668710",
         "note": "National Cathedral",
         "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q37733713",
+        "note": "Big Ben",
+        "maki_temaki": "tamaki/clock"
     },
     {
         "wikidata": "Q218501",
@@ -213,6 +248,11 @@
         "wikidata": "Q7433575",
         "note": "Science Museum",
         "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q254602",
+        "note": "Cadillac Ranch",
+        "maki_temaki": "maki/car"
     },
     {
         "wikidata": "Q1700358",
