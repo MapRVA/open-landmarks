@@ -44,13 +44,27 @@ style:
         - /icons/
         - [get, maki_temaki]
         - .png
-      icon-color: rgb(51, 51, 51)
-      text-color: rgb(51, 51, 51)
+      icon-color: '#444'
+      text-color: '#333'
       icon-halo-color: white
       text-halo-color: white
-      icon-halo-width: 2
-      text-halo-width: 2
-      text-field: '{name}'
+      icon-halo-width: 1.2
+      text-halo-width: 1.2
+      text-field:
+         - case
+         - - all
+           - [has, 'name:en']
+           - ['!=', [get, name], [get, 'name:en']]
+         - - format
+           - [get, 'name:en']
+           - {text-font: [literal, [Noto Sans Bold]]}
+           - "\\n"
+           - {}
+           - [get, name]
+           - {text-font: [literal, [Noto Sans Regular]]}
+         - - format
+           - [get, name]
+           - {text-font: [literal, [Noto Sans Bold]]}
       text-anchor: top
       text-radial-offset: 1.25
       text-size: 14
