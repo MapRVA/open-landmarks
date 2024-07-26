@@ -75,6 +75,11 @@
         "maki_temaki": "maki/triangle"
     },
     {
+        "wikidata": "Q1374",
+        "note": "Matterhorn",
+        "maki_temaki": "maki/mountain"
+    },
+    {
         "wikidata": "Q208358",
         "note": "Pyramid of Khafre",
         "maki_temaki": "maki/triangle"
@@ -93,6 +98,11 @@
         "wikidata": "Q9202",
         "note": "Statue of Liberty",
         "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q194057",
+        "note": "Mount Rainier",
+        "maki_temaki": "maki/mountain"
     },
     {
         "wikidata": "Q924174",
@@ -140,9 +150,34 @@
         "maki_temaki": "maki/monument"
     },
     {
+        "wikidata": "Q4152",
+        "note": "Schloss Neuschwanstein",
+        "maki_temaki": "maki/castle"
+    },
+    {
+        "wikidata": "Q1413217",
+        "note": "Žižkov Television Tower",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q47476",
+        "note": "Alhambra",
+        "maki_temaki": "maki/castle"
+    },
+    {
         "wikidata": "Q183536",
         "note": "Tokyo Tower",
         "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q223207",
+        "note": "Oriental Pearl Tower",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q756268",
+        "note": "Stirling Castle",
+        "maki_temaki": "maki/castle"
     },
     {
         "wikidata": "Q9141",
@@ -150,9 +185,14 @@
         "maki_temaki": "maki/place-of-worship"
     },
     {
-        "wikidata": "Q223207",
-        "note": "Oriental Pearl Tower",
-        "maki_temaki": "temaki/tower"
+        "wikidata": "Q12506",
+        "note": "Hagia Sophia",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q69513",
+        "note": "Pena Palace",
+        "maki_temaki": "maki/castle"
     },
     {
         "wikidata": "Q129846",
@@ -170,14 +210,29 @@
         "maki_temaki": "maki/place-of-worship"
     },
     {
+        "wikidata": "Q212065",
+        "note": "Edinburgh Castle",
+        "maki_temaki": "maki/castle"
+    },
+    {
         "wikidata": "Q178114",
         "note": "Washington Monument",
+        "maki_temaki": "temaki/obelisk"
+    },
+    {
+        "wikidata": "Q390150",
+        "note": "Salisbury Cathedral",
         "maki_temaki": "temaki/obelisk"
     },
     {
         "wikidata": "Q901058",
         "note": "Vehicle Assembly Building",
         "maki_temaki": "maki/castle-JP"
+    },
+    {
+        "wikidata": "Q11819",
+        "note": "Hungarian Parliament Building",
+        "maki_temaki": "temaki/capitol"
     },
     {
         "wikidata": "Q54109",
@@ -199,12 +254,6 @@
         "wikidata": "Q204871",
         "note": "Charles Bridge",
         "maki_temaki": "maki/bridge"
-    },
-    {
-        "wikidata": "Q83497",
-        "note": "Mount Rushmore",
-        "name": "Mount Rushmore",
-        "maki_temaki": "maki/monument"
     },
     {
         "wikidata": "Q5317",
@@ -240,6 +289,12 @@
         "wikidata": "Q622796",
         "note": "Milad Tower",
         "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q83497",
+        "note": "Mount Rushmore",
+        "name": "Mount Rushmore",
+        "maki_temaki": "maki/monument"
     },
     {
         "wikidata": "Q614684",
