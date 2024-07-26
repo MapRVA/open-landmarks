@@ -150,6 +150,11 @@
         "maki_temaki": "maki/place-of-worship"
     },
     {
+        "wikidata": "Q223207",
+        "note": "Oriental Pearl Tower",
+        "maki_temaki": "temaki/tower"
+    },
+    {
         "wikidata": "Q129846",
         "note": "St. Basil's Cathedral",
         "maki_temaki": "temaki/domed_tower"
@@ -168,6 +173,11 @@
         "wikidata": "Q178114",
         "note": "Washington Monument",
         "maki_temaki": "temaki/obelisk"
+    },
+    {
+        "wikidata": "Q901058",
+        "note": "Vehicle Assembly Building",
+        "maki_temaki": "maki/castle-JP"
     },
     {
         "wikidata": "Q54109",
@@ -217,6 +227,16 @@
         "maki_temaki": "maki/bridge"
     },
     {
+        "wikidata": "Q12568",
+        "note": "Mackinac Bridge",
+        "maki_temaki": "maki/bridge"
+    },
+    {
+        "wikidata": "Q226035",
+        "note": "Tacoma Narrows Bridge",
+        "maki_temaki": "maki/bridge"
+    },
+    {
         "wikidata": "Q622796",
         "note": "Milad Tower",
         "maki_temaki": "temaki/tower"
@@ -262,6 +282,11 @@
         "wikidata": "Q134883",
         "note": "CN Tower",
         "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q125006",
+        "note": "Brooklyn Bridge",
+        "maki_temaki": "maki/bridge"
     },
     {
         "wikidata": "Q9188",
@@ -332,6 +357,21 @@
         "wikidata": "Q37733713",
         "note": "Big Ben",
         "maki_temaki": "temaki/clock"
+    },
+    {
+        "wikidata": "Q210280",
+        "note": "Dettifoss",
+        "maki_temaki": "maki/waterfall"
+    },
+    {
+        "wikidata": "Q271466",
+        "note": "Hallgrimskirkja",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q38519",
+        "note": "Gullfoss",
+        "maki_temaki": "maki/waterfall"
     },
     {
         "wikidata": "Q218501",
