@@ -97,12 +97,12 @@
     {
         "wikidata": "Q7604504",
         "note": "Statue of Unity",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q9202",
         "note": "Statue of Liberty",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q11245",
@@ -117,42 +117,42 @@
     {
         "wikidata": "Q924174",
         "note": "Spring Temple Buddha",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q1809404",
         "note": "Laykyun Sekkya",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q113070852",
         "note": "Statue of Belief",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q542324",
         "note": "Ushiku Daibutsu",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q3118755",
         "note": "Guishan Guanyin",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q2083114",
         "note": "Great Buddha of Thailand",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q1621882",
         "note": "Sendai Daikannon",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q28153889",
         "note": "Dai Kannon",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q243",
@@ -273,12 +273,12 @@
     {
         "wikidata": "Q6163386",
         "note": "Virgin of El Panecillo",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q79961",
-        "note": "Christ Redeemer",
-        "maki_temaki": "maki/monument"
+        "note": "Christ the Redeemer",
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q44440",
@@ -320,17 +320,17 @@
     {
         "wikidata": "Q142917",
         "note": "Mother Ukraine, a massive statue in Kyiv",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q1601986",
         "note": "The Motherland Calls, a massive statue in Volgograd, Russia",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q60853885",
         "note": "Statue of Guan Yu (Jingzhou)",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q29870701",
@@ -391,7 +391,7 @@
     {
         "wikidata": "Q470763",
         "note": "African Renaissance Monument",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q7442108",
@@ -401,7 +401,7 @@
     {
         "wikidata": "Q60854014",
         "note": "Guerrero Chimalli",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/statue"
     },
     {
         "wikidata": "Q7962595",
