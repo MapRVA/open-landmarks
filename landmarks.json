@@ -2,17 +2,17 @@
     {
         "wikidata": "Q12495",
         "note": "Burj Khalifa",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q7969454",
         "note": "Merdeka 118",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q18547",
         "note": "Shanghai Tower",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q189476",
@@ -22,27 +22,28 @@
     {
         "wikidata": "Q1077308",
         "note": "Ping An Finance Centre",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q494895",
         "note": "Lotte World Tower",
-        "maki_temaki": "temaki/obelisk"
+        "name": "Lotte World Tower",
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q10939987",
         "note": "Tianjin CTF Finance Centre",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q197833",
         "note": "China Zun",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q83101",
         "note": "Taipei 101",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q513",
@@ -62,7 +63,7 @@
     {
         "wikidata": "Q4255374",
         "note": "Lakhta Centre",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q37200",
@@ -107,7 +108,7 @@
     {
         "wikidata": "Q11245",
         "note": "One World Trade Center",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/building-alt1"
     },
     {
         "wikidata": "Q194057",
@@ -232,7 +233,7 @@
     {
         "wikidata": "Q390150",
         "note": "Salisbury Cathedral",
-        "maki_temaki": "temaki/obelisk"
+        "maki_temaki": "maki/place-of-worship"
     },
     {
         "wikidata": "Q901058",
