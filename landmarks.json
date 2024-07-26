@@ -75,6 +75,11 @@
         "maki_temaki": "maki/mountain"
     },
     {
+        "wikidata": "Q43278",
+        "note": "Victoria Falls",
+        "maki_temaki": "maki/waterfall"
+    },
+    {
         "wikidata": "Q208358",
         "note": "Pyramid of Khafre",
         "maki_temaki": "maki/triangle"
@@ -82,6 +87,11 @@
     {
         "wikidata": "Q238623",
         "note": "Pyramid of Menkaure",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q2226897",
+        "note": "Memphis Pyramid",
         "maki_temaki": "maki/triangle"
     },
     {
