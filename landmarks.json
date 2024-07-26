@@ -158,7 +158,7 @@
     {
         "wikidata": "Q243",
         "note": "Eiffel Tower",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/mast"
     },
     {
         "wikidata": "Q4152",
@@ -183,7 +183,7 @@
     {
         "wikidata": "Q183536",
         "note": "Tokyo Tower",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/mast"
     },
     {
         "wikidata": "Q223207",
@@ -269,7 +269,7 @@
     {
         "wikidata": "Q5317",
         "note": "Space Needle",
-        "maki_temaki": "temaki/mast"
+        "maki_temaki": "temaki/tower"
     },
     {
         "wikidata": "Q6163386",
@@ -342,7 +342,7 @@
     {
         "wikidata": "Q1753887",
         "note": "Torre del Reformador",
-        "maki_temaki": "maki/monument"
+        "maki_temaki": "temaki/mast"
     },
     {
         "wikidata": "Q134883",
