@@ -45,6 +45,21 @@
         "maki_temaki": "temaki/obelisk"
     },
     {
+        "wikidata": "Q513",
+        "note": "Mount Everest",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q39739",
+        "note": "Aconcagua",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q130018",
+        "note": "Denali",
+        "maki_temaki": "maki/mountain"
+    },
+    {
         "wikidata": "Q11245",
         "note": "One World Trade Center",
         "maki_temaki": "temaki/obelisk"
@@ -125,9 +140,19 @@
         "maki_temaki": "maki/monument"
     },
     {
+        "wikidata": "Q183536",
+        "note": "Tokyo Tower",
+        "maki_temaki": "maki/monument"
+    },
+    {
         "wikidata": "Q9141",
         "note": "Taj Mahal",
         "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q129846",
+        "note": "St. Basil's Cathedral",
+        "maki_temaki": "temaki/domed_tower"
     },
     {
         "wikidata": "Q151356",
@@ -177,9 +202,24 @@
         "maki_temaki": "temaki/mast"
     },
     {
+        "wikidata": "Q6163386",
+        "note": "Virgin of El Panecillo",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q79961",
+        "note": "Christ Redeemer",
+        "maki_temaki": "maki/monument"
+    },
+    {
         "wikidata": "Q44440",
         "note": "Golden Gate Bridge",
         "maki_temaki": "maki/bridge"
+    },
+    {
+        "wikidata": "Q622796",
+        "note": "Milad Tower",
+        "maki_temaki": "temaki/tower"
     },
     {
         "wikidata": "Q614684",
@@ -212,6 +252,16 @@
         "note": "Cape Spear Lighthouse, prominent lighthouse at most easterly point of the continent.",
         "name": "Cape Spear Lighthouse",
         "maki_temaki": "maki/lighthouse"
+    },
+    {
+        "wikidata": "Q1753887",
+        "note": "Torre del Reformador",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q134883",
+        "note": "CN Tower",
+        "maki_temaki": "temaki/tower"
     },
     {
         "wikidata": "Q9188",
@@ -254,13 +304,18 @@
         "maki_temaki": "maki/monument"
     },
     {
+        "wikidata": "Q7442108",
+        "note": "Seattle Great Wheel",
+        "maki_temaki": "maki/amusement-park"
+    },
+    {
         "wikidata": "Q60854014",
         "note": "Guerrero Chimalli",
         "maki_temaki": "maki/monument"
     },
     {
         "wikidata": "Q7962595",
-        "note": "Wall Drug",
+        "note": "Wall Drug, famous not only as an attraction for for its hundreds of miles of highway signs directing drivers toward it.",
         "maki_temaki": "maki/attraction"
     },
     {
@@ -276,12 +331,17 @@
     {
         "wikidata": "Q37733713",
         "note": "Big Ben",
-        "maki_temaki": "tamaki/clock"
+        "maki_temaki": "temaki/clock"
     },
     {
         "wikidata": "Q218501",
         "note": "Cabot Tower",
         "maki_temaki": "maki/castle"
+    },
+    {
+        "wikidata": "Q864789",
+        "note": "Montreal Biosphère",
+        "maki_temaki": "maki/circle-stroked"
     },
     {
         "wikidata": "Q11343430",
