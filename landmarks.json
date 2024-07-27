@@ -390,6 +390,11 @@
         "maki_temaki": "maki/bridge"
     },
     {
+        "wikidata": "Q29294",
+        "note": "Willis Tower",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
         "wikidata": "Q9188",
         "note": "Empire State Building",
         "maki_temaki": "maki/city"
@@ -510,6 +515,11 @@
         "maki_temaki": "maki/waterfall"
     },
     {
+        "wikidata": "Q2915273",
+        "note": "Wisconsin State Capitol",
+        "maki_temaki": "temaki/capitol"
+    },
+    {
         "wikidata": "Q218501",
         "note": "Cabot Tower",
         "maki_temaki": "maki/castle"
@@ -567,7 +577,7 @@
     },
     {
         "wikidata": "Q2537798",
-        "note": "Virginia State Capital",
+        "note": "Virginia State Capitol",
         "maki_temaki": "temaki/capitol"
     },
     {
