@@ -61,6 +61,16 @@
         "maki_temaki": "maki/mountain"
     },
     {
+        "wikidata": "Q1544340",
+        "note": "Mount Fairweather",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q238147",
+        "note": "Citlaltépetl",
+        "maki_temaki": "maki/mountain"
+    },
+    {
         "wikidata": "Q4255374",
         "note": "Lakhta Centre",
         "maki_temaki": "maki/building-alt1"
@@ -71,8 +81,28 @@
         "maki_temaki": "maki/triangle"
     },
     {
+        "wikidata": "Q43105",
+        "note": "Mount Elbrus",
+        "maki_temaki": "maki/mountain"
+    },
+    {
         "wikidata": "Q1374",
         "note": "Matterhorn",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q583",
+        "note": "Mont Blanc",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q4425",
+        "note": "Eiger",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q1045888",
+        "note": "Puncak Jaya",
         "maki_temaki": "maki/mountain"
     },
     {
@@ -104,6 +134,11 @@
         "wikidata": "Q9202",
         "note": "Statue of Liberty",
         "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q7296",
+        "note": "Mount Kilimanjaro",
+        "maki_temaki": "maki/mountain"
     },
     {
         "wikidata": "Q11245",
@@ -370,6 +405,11 @@
         "maki_temaki": "maki/triangle"
     },
     {
+        "wikidata": "Q163758",
+        "note": "Vinson Massif (location of highest peak in Antarctica)",
+        "maki_temaki": "maki/mountain"
+    },
+    {
         "wikidata": "Q676203",
         "note": "Machu Picchu",
         "maki_temaki": "temaki/ruins"
@@ -383,6 +423,11 @@
         "wikidata": "Q45178",
         "note": "Sydney Opera House",
         "maki_temaki": "maki/theatre"
+    },
+    {
+        "wikidata": "Q178167",
+        "note": "Mount Kosciuszko",
+        "maki_temaki": "maki/mountain"
     },
     {
         "wikidata": "Q39054",
