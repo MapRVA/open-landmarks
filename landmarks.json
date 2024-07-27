@@ -253,7 +253,7 @@
     {
         "wikidata": "Q10285",
         "note": "Colosseum",
-        "maki_temaki": "maki/stadium"
+        "maki_temaki": "temaki/ruins"
     },
     {
         "wikidata": "Q1373778",
@@ -360,6 +360,26 @@
         "maki_temaki": "maki/city"
     },
     {
+        "wikidata": "Q10288",
+        "note": "Parthenon",
+        "maki_temaki": "temaki/ruins"
+    },
+    {
+        "wikidata": "Q29238",
+        "note": "Pyramid of the Sun (Teotihuacan)",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q676203",
+        "note": "Machu Picchu",
+        "maki_temaki": "temaki/ruins"
+    },
+    {
+        "wikidata": "Q1128327",
+        "note": "Temple of Kukulcan",
+        "maki_temaki": "maki/triangle"
+    },
+    {
         "wikidata": "Q45178",
         "note": "Sydney Opera House",
         "maki_temaki": "maki/theatre"
@@ -368,6 +388,11 @@
         "wikidata": "Q39054",
         "note": "Leaning Tower of Pisa",
         "maki_temaki": "temaki/silo"
+    },
+    {
+        "wikidata": "Q5788",
+        "note": "Petra",
+        "maki_temaki": "temaki/ruins"
     },
     {
         "wikidata": "Q35525",
