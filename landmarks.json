@@ -1,5 +1,535 @@
 [
     {
+        "wikidata": "Q12495",
+        "note": "Burj Khalifa",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q7969454",
+        "note": "Merdeka 118",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q18547",
+        "note": "Shanghai Tower",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q189476",
+        "note": "The Clock Towers",
+        "maki_temaki": "temaki/clock"
+    },
+    {
+        "wikidata": "Q1077308",
+        "note": "Ping An Finance Centre",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q494895",
+        "note": "Lotte World Tower",
+        "name": "Lotte World Tower",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q10939987",
+        "note": "Tianjin CTF Finance Centre",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q197833",
+        "note": "China Zun",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q83101",
+        "note": "Taipei 101",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q513",
+        "note": "Mount Everest",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q39739",
+        "note": "Aconcagua",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q130018",
+        "note": "Denali",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q1544340",
+        "note": "Mount Fairweather",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q238147",
+        "note": "Citlaltépetl",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q4255374",
+        "note": "Lakhta Centre",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q37200",
+        "note": "Great Pyramid of Giza",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q43105",
+        "note": "Mount Elbrus",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q1374",
+        "note": "Matterhorn",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q583",
+        "note": "Mont Blanc",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q4425",
+        "note": "Eiger",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q1045888",
+        "note": "Puncak Jaya",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q43278",
+        "note": "Victoria Falls",
+        "maki_temaki": "maki/waterfall"
+    },
+    {
+        "wikidata": "Q208358",
+        "note": "Pyramid of Khafre",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q238623",
+        "note": "Pyramid of Menkaure",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q2226897",
+        "note": "Memphis Pyramid",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q7604504",
+        "note": "Statue of Unity",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q9202",
+        "note": "Statue of Liberty",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q7296",
+        "note": "Mount Kilimanjaro",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q11245",
+        "note": "One World Trade Center",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q194057",
+        "note": "Mount Rainier",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q924174",
+        "note": "Spring Temple Buddha",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q1809404",
+        "note": "Laykyun Sekkya",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q113070852",
+        "note": "Statue of Belief",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q542324",
+        "note": "Ushiku Daibutsu",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q3118755",
+        "note": "Guishan Guanyin",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q2083114",
+        "note": "Great Buddha of Thailand",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q1621882",
+        "note": "Sendai Daikannon",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q28153889",
+        "note": "Dai Kannon",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q243",
+        "note": "Eiffel Tower",
+        "maki_temaki": "temaki/mast"
+    },
+    {
+        "wikidata": "Q4152",
+        "note": "Schloss Neuschwanstein",
+        "maki_temaki": "maki/castle"
+    },
+    {
+        "wikidata": "Q1413217",
+        "note": "Žižkov Television Tower",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q212065",
+        "note": "Edinburgh Castle",
+        "maki_temaki": "maki/castle"
+    },
+    {
+        "wikidata": "Q47476",
+        "note": "Alhambra",
+        "maki_temaki": "maki/castle"
+    },
+    {
+        "wikidata": "Q183536",
+        "note": "Tokyo Tower",
+        "maki_temaki": "temaki/mast"
+    },
+    {
+        "wikidata": "Q223207",
+        "note": "Oriental Pearl Tower",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q756268",
+        "note": "Stirling Castle",
+        "maki_temaki": "maki/castle"
+    },
+    {
+        "wikidata": "Q9141",
+        "note": "Taj Mahal",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q12506",
+        "note": "Hagia Sophia",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q69513",
+        "note": "Pena Palace",
+        "maki_temaki": "maki/castle"
+    },
+    {
+        "wikidata": "Q129846",
+        "note": "St. Basil's Cathedral",
+        "maki_temaki": "temaki/domed_tower"
+    },
+    {
+        "wikidata": "Q151356",
+        "note": "Fernsehturm Berlin",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q48435",
+        "note": "Sagrada Família",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q178114",
+        "note": "Washington Monument",
+        "maki_temaki": "temaki/obelisk"
+    },
+    {
+        "wikidata": "Q390150",
+        "note": "Salisbury Cathedral",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q901058",
+        "note": "Vehicle Assembly Building",
+        "maki_temaki": "temaki/hangar"
+    },
+    {
+        "wikidata": "Q11819",
+        "note": "Hungarian Parliament Building",
+        "maki_temaki": "temaki/capitol"
+    },
+    {
+        "wikidata": "Q54109",
+        "note": "U.S. Capitol",
+        "maki_temaki": "temaki/capitol"
+    },
+    {
+        "wikidata": "Q10285",
+        "note": "Colosseum",
+        "maki_temaki": "temaki/ruins"
+    },
+    {
+        "wikidata": "Q1373778",
+        "note": "Refers to Horseshoe Falls, the largest and most famous waterfall at Niagara Falls",
+        "name": "Niagara Falls",
+        "maki_temaki": "maki/waterfall"
+    },
+    {
+        "wikidata": "Q204871",
+        "note": "Charles Bridge",
+        "maki_temaki": "maki/bridge"
+    },
+    {
+        "wikidata": "Q5317",
+        "note": "Space Needle",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q6163386",
+        "note": "Virgin of El Panecillo",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q79961",
+        "note": "Christ the Redeemer",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q44440",
+        "note": "Golden Gate Bridge",
+        "maki_temaki": "maki/bridge"
+    },
+    {
+        "wikidata": "Q12568",
+        "note": "Mackinac Bridge",
+        "maki_temaki": "maki/bridge"
+    },
+    {
+        "wikidata": "Q226035",
+        "note": "Tacoma Narrows Bridge",
+        "maki_temaki": "maki/bridge"
+    },
+    {
+        "wikidata": "Q622796",
+        "note": "Milad Tower",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q83497",
+        "note": "Mount Rushmore",
+        "name": "Mount Rushmore",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q614684",
+        "note": "Cairo Tower",
+        "maki_temaki": "temaki/silo"
+    },
+    {
+        "wikidata": "Q45234",
+        "note": "Gateway Arch",
+        "name": "Gateway Arch",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q142917",
+        "note": "Mother Ukraine, a massive statue in Kyiv",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q1601986",
+        "note": "The Motherland Calls, a massive statue in Volgograd, Russia",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q60853885",
+        "note": "Statue of Guan Yu (Jingzhou)",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q29870701",
+        "note": "Cape Spear Lighthouse, prominent lighthouse at most easterly point of the continent.",
+        "name": "Cape Spear Lighthouse",
+        "maki_temaki": "maki/lighthouse"
+    },
+    {
+        "wikidata": "Q1753887",
+        "note": "Torre del Reformador",
+        "maki_temaki": "temaki/mast"
+    },
+    {
+        "wikidata": "Q134883",
+        "note": "CN Tower",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q125006",
+        "note": "Brooklyn Bridge",
+        "maki_temaki": "maki/bridge"
+    },
+    {
+        "wikidata": "Q29294",
+        "note": "Willis Tower",
+        "maki_temaki": "maki/building-alt1"
+    },
+    {
+        "wikidata": "Q9188",
+        "note": "Empire State Building",
+        "maki_temaki": "maki/city"
+    },
+    {
+        "wikidata": "Q10288",
+        "note": "Parthenon",
+        "maki_temaki": "temaki/ruins"
+    },
+    {
+        "wikidata": "Q29238",
+        "note": "Pyramid of the Sun (Teotihuacan)",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q163758",
+        "note": "Vinson Massif (location of highest peak in Antarctica)",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q676203",
+        "note": "Machu Picchu",
+        "maki_temaki": "temaki/ruins"
+    },
+    {
+        "wikidata": "Q1128327",
+        "note": "Temple of Kukulcan",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q45178",
+        "note": "Sydney Opera House",
+        "maki_temaki": "maki/theatre"
+    },
+    {
+        "wikidata": "Q178167",
+        "note": "Mount Kosciuszko",
+        "maki_temaki": "maki/mountain"
+    },
+    {
+        "wikidata": "Q39054",
+        "note": "Leaning Tower of Pisa",
+        "maki_temaki": "temaki/silo"
+    },
+    {
+        "wikidata": "Q5788",
+        "note": "Petra",
+        "maki_temaki": "temaki/ruins"
+    },
+    {
+        "wikidata": "Q35525",
+        "note": "White House",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q213559",
+        "note": "Lincoln Memorial",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q326183",
+        "note": "Jefferson Memorial",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q180376",
+        "note": "Hollywood Sign",
+        "maki_temaki": "maki/attraction"
+    },
+    {
+        "wikidata": "Q470763",
+        "note": "African Renaissance Monument",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q7442108",
+        "note": "Seattle Great Wheel",
+        "maki_temaki": "maki/amusement-park"
+    },
+    {
+        "wikidata": "Q60854014",
+        "note": "Guerrero Chimalli",
+        "maki_temaki": "temaki/statue"
+    },
+    {
+        "wikidata": "Q7962595",
+        "note": "Wall Drug, famous not only as an attraction for for its hundreds of miles of highway signs directing drivers toward it.",
+        "maki_temaki": "maki/attraction"
+    },
+    {
+        "wikidata": "Q3570",
+        "note": "Union Station",
+        "maki_temaki": "maki/rail"
+    },
+    {
+        "wikidata": "Q668710",
+        "note": "National Cathedral",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q37733713",
+        "note": "Big Ben",
+        "maki_temaki": "temaki/clock"
+    },
+    {
+        "wikidata": "Q210280",
+        "note": "Dettifoss",
+        "maki_temaki": "maki/waterfall"
+    },
+    {
+        "wikidata": "Q271466",
+        "note": "Hallgrimskirkja",
+        "maki_temaki": "maki/place-of-worship"
+    },
+    {
+        "wikidata": "Q38519",
+        "note": "Gullfoss",
+        "maki_temaki": "maki/waterfall"
+    },
+    {
+        "wikidata": "Q2915273",
+        "note": "Wisconsin State Capitol",
+        "maki_temaki": "temaki/capitol"
+    },
+    {
+        "wikidata": "Q218501",
+        "note": "Cabot Tower",
+        "maki_temaki": "maki/castle"
+    },
+    {
+        "wikidata": "Q864789",
+        "note": "Montreal Biosphère",
+        "maki_temaki": "maki/circle-stroked"
+    },
+    {
         "wikidata": "Q11343430",
         "extra_qualifier": "[building=train_station]",
         "note": "Main St Station",
@@ -16,9 +546,19 @@
         "maki_temaki": "maki/museum"
     },
     {
+        "wikidata": "Q254602",
+        "note": "Cadillac Ranch",
+        "maki_temaki": "maki/car"
+    },
+    {
         "wikidata": "Q1700358",
         "note": "Richmond Raceway",
         "maki_temaki": "temaki/racetrack_oval"
+    },
+    {
+        "wikidata": "Q5336827",
+        "note": "Eden Center, a well-known Vietnamese shopping center with an iconic arch over its entrance.",
+        "maki_temaki": "maki/shop"
     },
     {
         "wikidata": "Q4883643",
@@ -37,7 +577,7 @@
     },
     {
         "wikidata": "Q2537798",
-        "note": "Virginia State Capital",
+        "note": "Virginia State Capitol",
         "maki_temaki": "temaki/capitol"
     },
     {
@@ -48,6 +588,11 @@
     {
         "wikidata": "Q127740146",
         "note": "Virginia War Memorial Carillon",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q2901761",
+        "note": "Netherlands Carillon",
         "maki_temaki": "maki/monument"
     }
 ]
